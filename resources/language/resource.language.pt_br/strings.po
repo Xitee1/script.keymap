@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: XBMC Addons\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-05-13 23:04+0000\n"
+"PO-Revision-Date: 2024-05-18 21:31+0000\n"
 "Last-Translator: Havok Dan <havokdan@yahoo.com.br>\n"
 "Language-Team: Portuguese (Brazil) <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-keymap/pt_br/>\n"
 "Language: pt_br\n"
@@ -28,7 +28,7 @@ msgstr "Keymap Editor é uma GUI para configurar mapeamentos para controles remo
 # Text Messages
 msgctxt "#30000"
 msgid "Keymap Editor"
-msgstr ""
+msgstr "Editor de Mapa de Teclado"
 
 msgctxt "#30001"
 msgid "Failed to remove old keymap file"
@@ -60,229 +60,233 @@ msgstr "Selecione Janela para gerenciar atalhos"
 
 msgctxt "#30008"
 msgid "Select action category"
-msgstr ""
+msgstr "Selecione a ação para categoria"
 
 msgctxt "#30009"
 msgid "Select the action to assign a key"
-msgstr ""
+msgstr "Selecione a ação para atribuir uma chave"
 
 msgctxt "#30010"
 msgid "Timeout in %.0f seconds..."
-msgstr ""
+msgstr "Tempo limite em %.0f segundos..."
 
 msgctxt "#30011"
 msgid "Edit key"
-msgstr ""
+msgstr "Editar tecla"
 
 msgctxt "#30012"
 msgid "Remove"
-msgstr ""
+msgstr "Remover"
 
 # empty strings from id 30013 to 30099
 # Window names
+#, fuzzy
 msgctxt "#30100"
 msgid "Global"
-msgstr ""
+msgstr "Global"
 
 msgctxt "#30101"
 msgid "Fullscreen Video"
-msgstr ""
+msgstr "Vídeo em Tela Cheia"
 
 msgctxt "#30102"
 msgid "Fullscreen Live TV"
-msgstr ""
+msgstr "TV Ao Vivo em Tela Cheia"
 
 msgctxt "#30103"
 msgid "Fullscreen Radio"
-msgstr ""
+msgstr "Rádio em Tela Cheia"
 
 msgctxt "#30104"
 msgid "Fullscreen Game"
-msgstr ""
+msgstr "Jogo em Tela Cheia"
 
+#, fuzzy
 msgctxt "#30105"
 msgid "Home"
-msgstr ""
+msgstr "Home"
 
 msgctxt "#30106"
 msgid "Programs"
-msgstr ""
+msgstr "Programas"
 
 msgctxt "#30107"
 msgid "Videos"
-msgstr ""
+msgstr "Vídeos"
 
 msgctxt "#30108"
 msgid "Music"
-msgstr ""
+msgstr "Música"
 
 msgctxt "#30109"
 msgid "Pictures"
-msgstr ""
+msgstr "Imagens"
 
+#, fuzzy
 msgctxt "#30110"
 msgid "PVR"
-msgstr ""
+msgstr "PVR"
 
 msgctxt "#30111"
 msgid "Filemanager"
-msgstr ""
+msgstr "Gerenciador de arquivos"
 
 msgctxt "#30112"
 msgid "Virtual Keyboard"
-msgstr ""
+msgstr "Teclado Virtual"
 
 msgctxt "#30113"
 msgid "Player Controls"
-msgstr ""
+msgstr "Controles do Player"
 
 msgctxt "#30114"
 msgid "Seek bar"
-msgstr ""
+msgstr "Barra de progresso"
 
 msgctxt "#30115"
 msgid "Music OSD"
-msgstr ""
+msgstr "OSD de música"
 
 msgctxt "#30116"
 msgid "Video OSD Settings"
-msgstr ""
+msgstr "Configurações OSD do vídeo"
 
 msgctxt "#30117"
 msgid "Audio OSD Settings"
-msgstr ""
+msgstr "Configurações OSD do áudio"
 
 msgctxt "#30118"
 msgid "Visualisation"
-msgstr ""
+msgstr "Visualização"
 
+#, fuzzy
 msgctxt "#30119"
 msgid "Slideshow"
-msgstr ""
+msgstr "Slideshow"
 
 # empty strings from id 30120 to 30199
 # Navigation
 msgctxt "#30200"
 msgid "Move Left"
-msgstr ""
+msgstr "Mover para Esquerda"
 
 msgctxt "#30201"
 msgid "Move Right"
-msgstr ""
+msgstr "Mover para Direita"
 
 msgctxt "#30202"
 msgid "Move Up"
-msgstr ""
+msgstr "Mover para Cima"
 
 msgctxt "#30203"
 msgid "Move Down"
-msgstr ""
+msgstr "Mover para Baixo"
 
 msgctxt "#30204"
 msgid "Page Up"
-msgstr ""
+msgstr "Subir Página"
 
 msgctxt "#30205"
 msgid "Page Down"
-msgstr ""
+msgstr "Descer Página"
 
 msgctxt "#30206"
 msgid "Select Item"
-msgstr ""
+msgstr "Selecionar Item"
 
 msgctxt "#30207"
 msgid "Highlight Item"
-msgstr ""
+msgstr "Destacar Item"
 
 msgctxt "#30208"
 msgid "Parent Directory"
-msgstr ""
+msgstr "Diretório Superior"
 
 msgctxt "#30209"
 msgid "Back"
-msgstr ""
+msgstr "Voltar"
 
 msgctxt "#30210"
 msgid "Previous Menu"
-msgstr ""
+msgstr "Menu Anterior"
 
 msgctxt "#30211"
 msgid "Show Info"
-msgstr ""
+msgstr "Mostrar Info"
 
 msgctxt "#30212"
 msgid "Context Menu"
-msgstr ""
+msgstr "Menu em Contexto"
 
 msgctxt "#30213"
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 msgctxt "#30214"
 msgid "First Page"
-msgstr ""
+msgstr "Primeira Página"
 
 msgctxt "#30215"
 msgid "Last Page"
-msgstr ""
+msgstr "Última Página"
 
 msgctxt "#30216"
 msgid "Next Letter"
-msgstr ""
+msgstr "Letra Seguinte"
 
 msgctxt "#30217"
 msgid "Previous Letter"
-msgstr ""
+msgstr "Letra Anterior"
 
 msgctxt "#30218"
 msgid "Scroll Up"
-msgstr ""
+msgstr "Rolar para Cima"
 
 msgctxt "#30219"
 msgid "Scroll Down"
-msgstr ""
+msgstr "Rolar para Baixo"
 
 msgctxt "#30220"
 msgid "Cursor Left"
-msgstr ""
+msgstr "Cursor Esquerdo"
 
 msgctxt "#30221"
 msgid "Cursor Right"
-msgstr ""
+msgstr "Cursor Direito"
 
 # empty strings from id 30222 to 30299
 # Playback
 msgctxt "#30300"
 msgid "Play"
-msgstr ""
+msgstr "Reproduzir"
 
 msgctxt "#30301"
 msgid "Pause"
-msgstr ""
+msgstr "Pausar"
 
 msgctxt "#30302"
 msgid "Play/Pause"
-msgstr ""
+msgstr "Reproduzir/Pausar"
 
 msgctxt "#30303"
 msgid "Stop"
-msgstr ""
+msgstr "Parar"
 
 msgctxt "#30304"
 msgid "Next"
-msgstr ""
+msgstr "Seguinte"
 
 msgctxt "#30305"
 msgid "Previous"
-msgstr ""
+msgstr "Anterior"
 
 msgctxt "#30306"
 msgid "Fast Forward"
-msgstr ""
+msgstr "Avanço Rápido"
 
 msgctxt "#30307"
 msgid "Rewind"
-msgstr ""
+msgstr "Retroceder"
 
 msgctxt "#30308"
 msgid "Small Step Back"
