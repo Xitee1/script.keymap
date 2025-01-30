@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: XBMC Addons\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-05-18 21:31+0000\n"
+"PO-Revision-Date: 2025-01-30 13:27+0000\n"
 "Last-Translator: Havok Dan <havokdan@yahoo.com.br>\n"
 "Language-Team: Portuguese (Brazil) <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-keymap/pt_br/>\n"
 "Language: pt_br\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.5.4\n"
+"X-Generator: Weblate 5.9.2\n"
 
 msgctxt "Addon Summary"
 msgid "An editor for keymap files"
@@ -80,7 +80,6 @@ msgstr "Remover"
 
 # empty strings from id 30013 to 30099
 # Window names
-#, fuzzy
 msgctxt "#30100"
 msgid "Global"
 msgstr "Global"
@@ -101,7 +100,6 @@ msgctxt "#30104"
 msgid "Fullscreen Game"
 msgstr "Jogo em Tela Cheia"
 
-#, fuzzy
 msgctxt "#30105"
 msgid "Home"
 msgstr "Home"
@@ -122,7 +120,6 @@ msgctxt "#30109"
 msgid "Pictures"
 msgstr "Imagens"
 
-#, fuzzy
 msgctxt "#30110"
 msgid "PVR"
 msgstr "PVR"
@@ -159,7 +156,6 @@ msgctxt "#30118"
 msgid "Visualisation"
 msgstr "Visualização"
 
-#, fuzzy
 msgctxt "#30119"
 msgid "Slideshow"
 msgstr "Slideshow"
