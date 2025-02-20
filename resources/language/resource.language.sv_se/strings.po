@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: XBMC Addons\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2023-03-25 05:16+0000\n"
+"PO-Revision-Date: 2025-02-20 19:41+0000\n"
 "Last-Translator: Sopor <sopor@hotmail.com>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-keymap/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,11 +15,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15.2\n"
+"X-Generator: Weblate 5.10\n"
 
 msgctxt "Addon Summary"
 msgid "An editor for keymap files"
-msgstr ""
+msgstr "En redigerare för tangentbordsfiler"
 
 msgctxt "Addon Description"
 msgid "Keymap Editor is a GUI for configuring mappings for remotes, keyboard and other inputs supported by Kodi. Note: existing user defined key mappings will be renamed to .bak."
@@ -36,23 +36,23 @@ msgstr ""
 
 msgctxt "#30002"
 msgid "Press the key you want to assign now"
-msgstr ""
+msgstr "Tryck på tangenten du vill tilldela nu"
 
 msgctxt "#30003"
 msgid "Edit"
-msgstr ""
+msgstr "Redigera"
 
 msgctxt "#30004"
 msgid "Reset to default"
-msgstr ""
+msgstr "Återställ till standard"
 
 msgctxt "#30005"
 msgid "Save"
-msgstr ""
+msgstr "Spara"
 
 msgctxt "#30006"
 msgid "Discard changes?"
-msgstr ""
+msgstr "Förkasta ändringar?"
 
 msgctxt "#30007"
 msgid "Select Window to manage shortcuts"
@@ -68,45 +68,45 @@ msgstr ""
 
 msgctxt "#30010"
 msgid "Timeout in %.0f seconds..."
-msgstr ""
+msgstr "Timeout i %.0f sekunder..."
 
 msgctxt "#30011"
 msgid "Edit key"
-msgstr ""
+msgstr "Redigera tangent"
 
 msgctxt "#30012"
 msgid "Remove"
-msgstr ""
+msgstr "Ta bort"
 
 # empty strings from id 30013 to 30099
 # Window names
 msgctxt "#30100"
 msgid "Global"
-msgstr ""
+msgstr "Global"
 
 msgctxt "#30101"
 msgid "Fullscreen Video"
-msgstr ""
+msgstr "Fullskärmsvideo"
 
 msgctxt "#30102"
 msgid "Fullscreen Live TV"
-msgstr ""
+msgstr "Live-TV i fullskärm"
 
 msgctxt "#30103"
 msgid "Fullscreen Radio"
-msgstr ""
+msgstr "Fullskärmsradio"
 
 msgctxt "#30104"
 msgid "Fullscreen Game"
-msgstr ""
+msgstr "Fullskärmsspel"
 
 msgctxt "#30105"
 msgid "Home"
-msgstr ""
+msgstr "Hem"
 
 msgctxt "#30106"
 msgid "Programs"
-msgstr ""
+msgstr "Program"
 
 msgctxt "#30107"
 msgid "Videos"
@@ -114,7 +114,7 @@ msgstr ""
 
 msgctxt "#30108"
 msgid "Music"
-msgstr ""
+msgstr "Musik"
 
 msgctxt "#30109"
 msgid "Pictures"
