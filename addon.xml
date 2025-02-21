@@ -32,6 +32,7 @@ added ability to map TempoUp and TempoDown
 		<summary lang="ro_RO">Un editor pentru fișiere de asociere a tastelor</summary>
 		<summary lang="ru_RU">Редактор файлов раскладки клавиатуры</summary>
 		<summary lang="sk_SK">Editor keymap súborov</summary>
+		<summary lang="sv_SE">En redigerare för tangentbordsfiler</summary>
 		<summary lang="zh_CN">一个键映射文件的编辑器</summary>
 		<description lang="da_DK">Keymap Editor er en GUI til konfiguration af mappinger for fjernbetjeninger, tastatur og andre input, der understøttes af Kodi. Bemærk: eksisterende brugerdefinerede nøglemappinger vil blive omdøbt til .bak.</description>
 		<description lang="de_DE">Keymap Editor ist eine grafische Oberfläche zum Konfigurieren von Tastenzuordnungen für Fernbedienungen, Tastaturen und anderen von Kodi unterstützten Eingabegeräten. Hinweis: Existierende benutzerdefinierte Tastenzuordnungen werden zu .bak umbenannt.</description>
