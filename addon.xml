@@ -50,7 +50,7 @@ added ability to map TempoUp and TempoDown
 		<description lang="ro_RO">Editorul asocierilor tastelor este o interfață grafică pentru configurarea asocierilor tastelor pentru telecomenzi, tastaturi și alte metode de intrare sprijinite de Kodi. Atenție: asociere definite de utilizator deja existente vor fi redenumite în .bak.</description>
 		<description lang="ru_RU">Keymap Editor - это графический интерфейс для настройки привязки клавиш пультов, клавиатуры и других устройств ввода, поддерживаемых Kodi. Примечание: существующие пользовательские привязки клавиш будут переименованы в .bak.</description>
 		<description lang="sk_SK">Keymap Editor je grafický nástroj na nastavovanie mapovania tlačidiel diaľkových ovládačov, klávesníc a iných vstupných zariadení podporovaných Kodi. Poznámka: k existujúcim používateľom definovaným mapovaniam bude pridaná prípona .bak.</description>
-		<description lang="sv_SE">Tangentmappningsredigerare är ett grafiskt gränssnitt för att konfigurera mappningar för fjärrkontroller, tangentbord och andra ingångar som stöds av Kodi. Observera: befintliga användardefinierade tangentmappningar kommer att döpas om till .bak.</description>
+		<description lang="sv_SE">Redigerare för tangentbordsfiler är ett grafiskt gränssnitt för att konfigurera mappningar för fjärrkontroller, tangentbord och andra ingångar som stöds av Kodi. Obs: befintliga användardefinierade tangentmappningar kommer att döpas om till .bak.</description>
 		<description lang="zh_CN">键映射编辑器是一个用于配置 Kodi 支持的遥控器、键盘和其他输入设备的功能映射的图形界面。注意：现有的用户定义键映射将重命名为.bak。</description>
 	</extension>
 </addon>
