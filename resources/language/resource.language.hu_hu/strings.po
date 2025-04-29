@@ -1287,3 +1287,10 @@ msgctxt "#31295"
 msgid "Game Volume"
 msgstr "Játék hangerő"
 
+msgctxt "#31296"
+msgid "Video Versions"
+msgstr "Videó verziók"
+
+msgctxt "#31297"
+msgid "Video Extras"
+msgstr "Videó extrák"
