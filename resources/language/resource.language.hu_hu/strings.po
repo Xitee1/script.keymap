@@ -1286,3 +1286,4 @@ msgstr "Game Pad bemenet"
 msgctxt "#31295"
 msgid "Game Volume"
 msgstr "Játék hangerő"
+
