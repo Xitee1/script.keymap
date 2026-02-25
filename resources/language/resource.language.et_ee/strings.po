@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: XBMC Addons\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-02-08 13:13+0000\n"
+"PO-Revision-Date: 2026-02-25 03:13+0000\n"
 "Last-Translator: rimasx <riks_12@hot.ee>\n"
 "Language-Team: Estonian <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-keymap/et_ee/>\n"
 "Language: et_ee\n"
@@ -15,11 +15,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.2\n"
+"X-Generator: Weblate 5.16\n"
 
 msgctxt "Addon Summary"
 msgid "An editor for keymap files"
-msgstr "Nupuasetuse redaktor"
+msgstr "Nupufunktsioonide redaktor"
 
 msgctxt "Addon Description"
 msgid "Keymap Editor is a GUI for configuring mappings for remotes, keyboard and other inputs supported by Kodi. Note: existing user defined key mappings will be renamed to .bak."
@@ -134,23 +134,23 @@ msgstr "Virtuaalne klaviatuur"
 
 msgctxt "#30113"
 msgid "Player Controls"
-msgstr "Pleieri juhtnupud"
+msgstr "Taasesituse juhtnupud"
 
 msgctxt "#30114"
 msgid "Seek bar"
-msgstr "Otsiriba"
+msgstr "Kerimisriba"
 
 msgctxt "#30115"
 msgid "Music OSD"
-msgstr "Muusika OSD"
+msgstr "Muusika ekraanimenüü"
 
 msgctxt "#30116"
 msgid "Video OSD Settings"
-msgstr "Video OSD seaded"
+msgstr "Video ekraanimenüü seaded"
 
 msgctxt "#30117"
 msgid "Audio OSD Settings"
-msgstr "Heli OSD seaded"
+msgstr "Heli ekraanimenüü seaded"
 
 msgctxt "#30118"
 msgid "Visualisation"
@@ -188,11 +188,11 @@ msgstr "Lehekülg alla"
 
 msgctxt "#30206"
 msgid "Select Item"
-msgstr "Vali kirje"
+msgstr "Vali üksus"
 
 msgctxt "#30207"
 msgid "Highlight Item"
-msgstr "Tõsta esile kirje"
+msgstr "Märgista üksus"
 
 msgctxt "#30208"
 msgid "Parent Directory"
@@ -262,7 +262,7 @@ msgstr "Paus"
 
 msgctxt "#30302"
 msgid "Play/Pause"
-msgstr "Esita/paus"
+msgstr "Esitus/paus"
 
 msgctxt "#30303"
 msgid "Stop"
@@ -286,35 +286,35 @@ msgstr "Keri tagasi"
 
 msgctxt "#30308"
 msgid "Small Step Back"
-msgstr "Lühike hüpe tagasi"
+msgstr "Lühike samm tagasi"
 
 msgctxt "#30309"
 msgid "Step Forward"
-msgstr "Hüpe edasi"
+msgstr "Samm edasi"
 
 msgctxt "#30310"
 msgid "Step Back"
-msgstr "Hüpe tagasi"
+msgstr "Samm tagasi"
 
 msgctxt "#30311"
 msgid "Big Step Forward"
-msgstr "Suur hüpe edasi"
+msgstr "Suur samm edasi"
 
 msgctxt "#30312"
 msgid "Big Step Back"
-msgstr "Suur hüpe tagasi"
+msgstr "Suur samm tagasi"
 
 msgctxt "#30313"
 msgid "Next Chapter or Big Step Forward"
-msgstr "Järgmine peatükk või suur hüpe edasi"
+msgstr "Järgmine peatükk või suur samm edasi"
 
 msgctxt "#30314"
 msgid "Previous Chapter or Big Step Back"
-msgstr "Eelmine peatükk või suur hüpe tagasi"
+msgstr "Eelmine peatükk või suur samm tagasi"
 
 msgctxt "#30315"
 msgid "Show OSD"
-msgstr "Kuva ekraanigraafika"
+msgstr "Kuva ekraanimenüü"
 
 msgctxt "#30316"
 msgid "Show current play time"
@@ -354,23 +354,23 @@ msgstr "Kordus välja"
 
 msgctxt "#30325"
 msgid "Toggle Random"
-msgstr "Lüliti: juhuslik"
+msgstr "Juhuesituse lüliti"
 
 msgctxt "#30326"
 msgid "Random On"
-msgstr "Juhuslik: sees"
+msgstr "Juhuesitus sees"
 
 msgctxt "#30327"
 msgid "Random Off"
-msgstr "Juhuslik: väljas"
+msgstr "Juhuesitus väljas"
 
 msgctxt "#30328"
 msgid "Playback Speed Faster"
-msgstr "Taasesitus: kiirem"
+msgstr "Kiirenda taasesitust"
 
 msgctxt "#30329"
 msgid "Playback Speed Slower"
-msgstr "Taasesitus: aeglasem"
+msgstr "Aeglusta taasesitust"
 
 msgctxt "#30330"
 msgid "Create Bookmark"
@@ -430,7 +430,7 @@ msgstr "HDHR lüliti"
 
 msgctxt "#30344"
 msgid "Cycle 3D Mode"
-msgstr "Vaheta 3D-režiimi vahel"
+msgstr "3D-režiimide ringlus"
 
 msgctxt "#30345"
 msgid "Next 3D Mode"
@@ -446,11 +446,11 @@ msgstr "3D mono"
 
 msgctxt "#30348"
 msgid "Tempo Up"
-msgstr "Tempo üles"
+msgstr "Kiirenda tempot"
 
 msgctxt "#30349"
 msgid "Tempo Down"
-msgstr "Tempo alla"
+msgstr "Aeglusta tempot"
 
 # empty strings from id 30348 to 30399
 # Audio
@@ -488,11 +488,11 @@ msgstr "Digitaal/analoog lüliti"
 
 msgctxt "#30408"
 msgid "Volume Amp Up"
-msgstr "Võimendi heli kõvemaks"
+msgstr "Suurenda helivõimendust"
 
 msgctxt "#30409"
 msgid "Volume Amp Down"
-msgstr "Võimendi heli vaiksemaks"
+msgstr "Vähenda helivõimendust"
 
 msgctxt "#30410"
 msgid "Volume Amplification"
@@ -526,7 +526,7 @@ msgstr "Suumi sisse "
 
 msgctxt "#30506"
 msgid "Zoom level Normal"
-msgstr "Tavaline suumitase"
+msgstr "Tavaline suum"
 
 msgctxt "#30507"
 msgid "Zoom level 1"
@@ -580,7 +580,7 @@ msgstr "Sirvi subtiitreid"
 
 msgctxt "#30603"
 msgid "Cycle Subtitle"
-msgstr "Vaheta subtiitreid"
+msgstr "Subtiitrite ringlus"
 
 msgctxt "#30604"
 msgid "Delay"
@@ -618,11 +618,11 @@ msgstr "Kanal alla"
 
 msgctxt "#30702"
 msgid "Previous channel group"
-msgstr "Eelmine kanalinimekiri"
+msgstr "Eelmine kanalirühm"
 
 msgctxt "#30703"
 msgid "Next channel group"
-msgstr "Järgmine kanalinimekiri"
+msgstr "Järgmine kanalirühm"
 
 msgctxt "#30704"
 msgid "PVR Play"
@@ -688,7 +688,7 @@ msgstr "Skaneeri"
 
 msgctxt "#30808"
 msgid "Toggle Watched"
-msgstr "Vaadatud/mittevaadatud lüliti"
+msgstr "Vaadatud oleku lüliti"
 
 msgctxt "#30809"
 msgid "Increase Rating"
@@ -768,7 +768,7 @@ msgstr "Sümbolid"
 
 msgctxt "#31003"
 msgid "Backspace"
-msgstr "Tagasilükkeklahv"
+msgstr "Kustutusklahv"
 
 msgctxt "#31004"
 msgid "0"
@@ -858,15 +858,15 @@ msgstr "Loo ekraanipilt"
 
 msgctxt "#31107"
 msgid "Reload Keymaps"
-msgstr "Lae nupuasetus uuesti"
+msgstr "Laadi nupuasetus uuesti"
 
 msgctxt "#31108"
 msgid "Increase PAR"
-msgstr "Suurenda PAR väärtust"
+msgstr "Suurenda piksli suhet (PAR)"
 
 msgctxt "#31109"
 msgid "Decrease PAR"
-msgstr "Vähenda PAR väärtust"
+msgstr "Vähenda piksli suhet (PAR)"
 
 msgctxt "#31110"
 msgid "Change resolution"
@@ -882,27 +882,27 @@ msgstr "Lähtesta kalibreerimine"
 
 msgctxt "#31113"
 msgid "Show current visualisation preset"
-msgstr "Kuva praeguse visuaali eelseadistus"
+msgstr "Kuva praeguse visuaali eelseade"
 
 msgctxt "#31114"
 msgid "Show visualisation preset list"
-msgstr "Visuaalide eelhäälestused"
+msgstr "Visuaalide eelseaded"
 
 msgctxt "#31115"
 msgid "Next visualisation preset"
-msgstr "Järgmise visuaali eelseadistus"
+msgstr "Visuaali järgmine eelseade"
 
 msgctxt "#31116"
 msgid "Previous visualisation preset"
-msgstr "Eelmise visuaali eelseadistus"
+msgstr "Visuaali eelmine eelseade"
 
 msgctxt "#31117"
 msgid "Lock current visualisation preset"
-msgstr "Lukusta praeguse visuaali eelseadistus"
+msgstr "Lukusta praegune visuaali eelseade"
 
 msgctxt "#31118"
 msgid "Switch to a new random preset"
-msgstr "Lülitu uuele juhuslikule eelseadistusele"
+msgstr "Vaheta uuele juhuslikule eelseadele"
 
 # empty strings from id 31119 to 31199
 # Activate Window
@@ -920,7 +920,7 @@ msgstr "Programmide seaded"
 
 msgctxt "#31203"
 msgid "Information Provider Settings"
-msgstr "Infotarnija seaded"
+msgstr "Teabeallika seaded"
 
 msgctxt "#31204"
 msgid "Interface Settings"
@@ -972,7 +972,7 @@ msgstr "Mängu juhtseadmed"
 
 msgctxt "#31216"
 msgid "Game Video Filters"
-msgstr "Mängu videofilter"
+msgstr "Mängu videofiltrid"
 
 msgctxt "#31217"
 msgid "Game Video Rotation"
@@ -988,7 +988,7 @@ msgstr "Rüü seaded"
 
 msgctxt "#31220"
 msgid "Addon Browser"
-msgstr "Lisamoodulite brauser"
+msgstr "Lisamoodulite loend"
 
 msgctxt "#31221"
 msgid "Addon Settings"
@@ -1012,7 +1012,7 @@ msgstr "Profiilid"
 
 msgctxt "#31226"
 msgid "System info"
-msgstr "Süsteemi andmed"
+msgstr "Süsteemi teave"
 
 msgctxt "#31227"
 msgid "Test Pattern"
@@ -1028,7 +1028,7 @@ msgstr "Logimisekraan"
 
 msgctxt "#31230"
 msgid "File Browser"
-msgstr "Failibrauser"
+msgstr "Failisirvija"
 
 msgctxt "#31231"
 msgid "Network Setup"
@@ -1060,7 +1060,7 @@ msgstr "Meedia filter"
 
 msgctxt "#31238"
 msgid "Visualisation Preset List"
-msgstr "Visuaalide eelhäälestused"
+msgstr "Visuaalide eelseaded"
 
 msgctxt "#31239"
 msgid "Smart Playlist Editor"
@@ -1105,11 +1105,11 @@ msgstr "Muusika esitusloend"
 
 msgctxt "#31250"
 msgid "Music Playlist Editor"
-msgstr "Muusika esitusloendi muutmine"
+msgstr "Muusika esitusloendi redaktor"
 
 msgctxt "#31251"
 msgid "Music Info"
-msgstr "Muusika andmed"
+msgstr "Muusika teave"
 
 msgctxt "#31252"
 msgid "Song Info"
@@ -1129,7 +1129,7 @@ msgstr "Video menüü"
 
 msgctxt "#31256"
 msgid "Video OSD"
-msgstr "Video OSD"
+msgstr "Video ekraanimenüü"
 
 msgctxt "#31257"
 msgid "Colour Management Settings"
@@ -1165,11 +1165,11 @@ msgstr "PVR taimeri seaded"
 
 msgctxt "#31265"
 msgid "PVR Group Manager"
-msgstr "PVR lemmiknimekirja haldur"
+msgstr "PVR rühmahaldur"
 
 msgctxt "#31266"
 msgid "PVR Channel Manager"
-msgstr "PVR kanali haldur"
+msgstr "PVR kanalihaldur"
 
 msgctxt "#31267"
 msgid "PVR Guide Search"
@@ -1185,11 +1185,11 @@ msgstr "PVR uuenduse edenemine"
 
 msgctxt "#31270"
 msgid "PVR OSD Channels"
-msgstr "PVR OSD kanalid"
+msgstr "PVR ekraanimenüü kanalid"
 
 msgctxt "#31271"
 msgid "PVR OSD Guide"
-msgstr "PVR OSD kava"
+msgstr "PVR ekraanimenüü ssatekava"
 
 msgctxt "#31272"
 msgid "TV Channels"
@@ -1229,7 +1229,7 @@ msgstr "Raadio taimerid"
 
 msgctxt "#31281"
 msgid "Radio Timer Rules"
-msgstr "Raadio taimeri reeglid"
+msgstr "Raadio taimerireeglid"
 
 msgctxt "#31282"
 msgid "Radio Search"
@@ -1277,7 +1277,7 @@ msgstr "Mängud"
 
 msgctxt "#31293"
 msgid "Games OSD"
-msgstr "Mängude OSD"
+msgstr "Mängude ekraanimenüü"
 
 msgctxt "#31294"
 msgid "Game Pad Input"
