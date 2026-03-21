@@ -226,16 +226,16 @@ _actions = [
     ]],
 
     ["Home Assistant", [
-        'NotifyAll("Kodi", "OnKeyPress", {"key":"ha_notify1"})', tr(31300),
-        'NotifyAll("Kodi", "OnKeyPress", {"key":"ha_notify2"})', tr(31301),
-        'NotifyAll("Kodi", "OnKeyPress", {"key":"ha_notify3"})', tr(31302),
-        'NotifyAll("Kodi", "OnKeyPress", {"key":"ha_notify4"})', tr(31303),
-        'NotifyAll("Kodi", "OnKeyPress", {"key":"ha_notify5"})', tr(31304),
-        'NotifyAll("Kodi", "OnKeyPress", {"key":"ha_notify6"})', tr(31305),
-        'NotifyAll("Kodi", "OnKeyPress", {"key":"ha_notify7"})', tr(31306),
-        'NotifyAll("Kodi", "OnKeyPress", {"key":"ha_notify8"})', tr(31307),
-        'NotifyAll("Kodi", "OnKeyPress", {"key":"ha_notify9"})', tr(31308),
-        'NotifyAll("Kodi", "OnKeyPress", {"key":"ha_notify10"})', tr(31309),
+        'NotifyAll("Kodi", "OnKeyPress", {"key":"notify1"})', tr(31300),
+        'NotifyAll("Kodi", "OnKeyPress", {"key":"notify2"})', tr(31301),
+        'NotifyAll("Kodi", "OnKeyPress", {"key":"notify3"})', tr(31302),
+        'NotifyAll("Kodi", "OnKeyPress", {"key":"notify4"})', tr(31303),
+        'NotifyAll("Kodi", "OnKeyPress", {"key":"notify5"})', tr(31304),
+        'NotifyAll("Kodi", "OnKeyPress", {"key":"notify6"})', tr(31305),
+        'NotifyAll("Kodi", "OnKeyPress", {"key":"notify7"})', tr(31306),
+        'NotifyAll("Kodi", "OnKeyPress", {"key":"notify8"})', tr(31307),
+        'NotifyAll("Kodi", "OnKeyPress", {"key":"notify9"})', tr(31308),
+        'NotifyAll("Kodi", "OnKeyPress", {"key":"notify10"})', tr(31309),
     ]],
 ]
 
