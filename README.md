@@ -30,5 +30,6 @@ actions:
             data: {}
             target:
               entity_id: light.some_light
-mode: single
+mode: parallel
+max: 10
 ```
