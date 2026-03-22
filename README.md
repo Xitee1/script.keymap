@@ -10,7 +10,7 @@ triggers:
   - trigger: event
     event_type: kodi_keypress
     event_data:
-      entity_id: fernseher_kodi
+      entity_id: media_player.fernseher_kodi
 conditions: []
 actions:
   - choose:
