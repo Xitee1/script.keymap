@@ -1378,3 +1378,43 @@ msgstr ""
 msgctxt "#31297"
 msgid "Video Extras"
 msgstr ""
+
+msgctxt "#31300"
+msgid "HA Notify 1"
+msgstr ""
+
+msgctxt "#31301"
+msgid "HA Notify 2"
+msgstr ""
+
+msgctxt "#31302"
+msgid "HA Notify 3"
+msgstr ""
+
+msgctxt "#31303"
+msgid "HA Notify 4"
+msgstr ""
+
+msgctxt "#31304"
+msgid "HA Notify 5"
+msgstr ""
+
+msgctxt "#31305"
+msgid "HA Notify 6"
+msgstr ""
+
+msgctxt "#31306"
+msgid "HA Notify 7"
+msgstr ""
+
+msgctxt "#31307"
+msgid "HA Notify 8"
+msgstr ""
+
+msgctxt "#31308"
+msgid "HA Notify 9"
+msgstr ""
+
+msgctxt "#31309"
+msgid "HA Notify 10"
+msgstr ""
